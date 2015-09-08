@@ -7,7 +7,7 @@ public class test {
 
     public static void main(String []args ){
 
-        edgeSmooth.readMap("/Users/yaoyao/IdeaProjects/mapSmooth/map/yy.png");
+        edgeSmooth.readMap2_2("/Users/yaoyao/IdeaProjects/mapSmooth/map/yy.png");
 
     }
 }
